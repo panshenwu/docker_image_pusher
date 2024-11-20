@@ -1,5 +1,5 @@
 
 #支持指定架构
 #--platform=linux/amd64 ossrs/srs:5
-# --platform=linux/amd64 zlmediakit/zlmediakit:master
- --platform=linux/amd64 redis
+ --platform=linux/amd64 zlmediakit/zlmediakit:master
+ #--platform=linux/amd64 redis
