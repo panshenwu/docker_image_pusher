@@ -2,5 +2,5 @@
 #支持指定架构
 #--platform=linux/amd64 ossrs/srs:5
  #--platform=linux/amd64 zlmediakit/zlmediakit:master
---platform=linux/amd64 zabbix/zabbix-server-mysql:6.0
+--platform=linux/amd64 zabbix/zabbix-server-mysql:6.0-ubuntu-latest
  #--platform=linux/amd64 redis
