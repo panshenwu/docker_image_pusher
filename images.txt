@@ -2,8 +2,8 @@
 #支持指定架构
 #--platform=linux/amd64 ossrs/srs:5
 #--platform=linux/arm64 ossrs/srs:v6.0.134
---platform=linux/arm64/v8 mongo:5.0-focal
+#--platform=linux/arm64/v8 mongo:5.0-focal
  #--platform=linux/amd64 zlmediakit/zlmediakit:master
 #--platform=linux/amd64 mariadb:latest
---platform=linux/arm64 houwm/jdk8:arm64
+--platform=linux/amd64 houwm/jdk8:amd64
  #--platform=linux/amd64 redis
