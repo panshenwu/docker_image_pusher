@@ -7,7 +7,7 @@
 #--platform=linux/amd64 mariadb:latest
 #--platform=linux/amd64 houwm/jdk8:latest
  #--platform=linux/amd64 redis
---platform=linux/amd64 docker pull jitsi/jvb:jvb-2.3-251-g56363cce9-1
---platform=linux/amd64 docker pull jitsi/jicofo:jicofo-1.0-1155-1
---platform=linux/amd64 docker pull jitsi/web:web-1.0.8767-1
---platform=linux/amd64 docker pull jitsi/prosody:prosody-13.0.2
+--platform=linux/amd64  jitsi/jvb:jvb-2.3-251-g56363cce9-1
+--platform=linux/amd64  jitsi/jicofo:jicofo-1.0-1155-1
+--platform=linux/amd64  jitsi/web:web-1.0.8767-1
+--platform=linux/amd64  jitsi/prosody:prosody-13.0.2
