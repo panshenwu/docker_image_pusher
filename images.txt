@@ -12,4 +12,4 @@
 #--platform=linux/amd64  jitsi/web:web-1.0.8767-1
 #--platform=linux/amd64  jitsi/prosody:prosody-13.0.2
 
---platform=linux/arm/v6 nginx:stable-alpine3.21-perl
+--platform=linux/arm64/v8 nginx:stable-alpine3.21-perl
